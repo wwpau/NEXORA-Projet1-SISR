@@ -1,7 +1,0 @@
- Présentation de NEXORA
-NEXORA est une entreprise fictive spécialisée dans les services informatiques et le conseil aux professionnels. Elle accompagne ses clients (TPE, PME et cabinets) dans la gestion de leur système d’information : infogérance, support utilisateurs, déploiement d’infrastructures et conseil en organisation et en sécurité. Elle emploie 65 collaborateurs, répartis sur deux sites : 35 à Toulouse et 30 à Marseille. 
-Le site de Toulouse est le siège de l’entreprise. Il regroupe la Direction, les Ressources humaines et la Finance. Il héberge Dolibarr, utilisé pour la gestion commerciale et administrative : suivi des clients, devis, contrats, facturation et comptabilité.
-Le site de Marseille est le centre de support et d’expertise technique. Il accueille le support informatique, qui traite les demandes des clients et des collaborateurs, et le service technique, qui réalise les interventions et les projets. Il héberge GLPI pour la gestion des tickets (niveaux N1, N2 et N3) et l’inventaire du parc.
-Chaque site possède sa propre infrastructure : réseau local segmenté, pare-feu, domaine Active Directory, serveurs et services locaux. Dans le projet 1, les deux sites sont construits séparément ; ils seront interconnectés dans le projet 2.
-
-
